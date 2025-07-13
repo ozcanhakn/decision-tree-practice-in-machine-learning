@@ -1,5 +1,5 @@
 # Makine Öğrenmesinde Karar Ağaçları ile Gözetimli Öğrenme Pratikleri
-Bu depo, makine öğrenimi alanında karar ağacı sınıflandırıcıları ve gözetimli öğrenme prensipleri üzerine yapılan iki uygulamalı pratik çalışmayı içermektedir. Amacımız, farklı veri setleri üzerinde karar ağaçlarının nasıl eğitildiğini, performanslarının nasıl değerlendirildiğini ve sonuçların nasıl yorumlandığını somut örneklerle göstermektir.
+Bu depo, makine öğrenimi alanında karar ağacı sınıflandırıcıları ve gözetimli öğrenme prensipleri üzerine yapılan dört uygulamalı pratik çalışmayı içermektedir. Amacımız, farklı veri setleri üzerinde karar ağaçlarının nasıl eğitildiğini, performanslarının nasıl değerlendirildiğini ve sonuçların nasıl yorumlandığını somut örneklerle göstermektir.
 
 ## 1. Pratik: Iris Çiçeği Veri Seti Üzerine Karar Ağacı Sınıflandırması
 Bu bölümde, makine öğrenimi dünyasının "Merhaba Dünya" örneği olarak kabul edilen Iris Çiçeği Veri Seti kullanılarak bir karar ağacı sınıflandırıcısı eğitilmiştir.
